@@ -240,7 +240,7 @@ class _MyAppState extends State<MyApp> {
               Container(
                 margin: EdgeInsets.all(10.0),
                 child: Text(
-                  getvalue != null ? "Dog age in Human is:" : "",
+                  getvalue != null ? "Your dog agein Human:" : "",
                   style: TextStyle(
                     fontSize: 20.0,
                     //fontWeight: FontWeight.bold,

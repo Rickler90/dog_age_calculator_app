@@ -1,5 +1,5 @@
-name: dog_age_calculator_app
-description: A new Flutter project.
+name: DogAge 
+description: a simple app that calculate your dogs age that equal to humans age 
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
